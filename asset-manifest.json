@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EvilCart/static/css/main.6d3ebbe0.chunk.css",
+    "main.js": "/EvilCart/static/js/main.c3898b07.chunk.js",
+    "main.js.map": "/EvilCart/static/js/main.c3898b07.chunk.js.map",
+    "runtime-main.js": "/EvilCart/static/js/runtime-main.e8b8c3d9.js",
+    "runtime-main.js.map": "/EvilCart/static/js/runtime-main.e8b8c3d9.js.map",
+    "static/js/2.6c0ca4bb.chunk.js": "/EvilCart/static/js/2.6c0ca4bb.chunk.js",
+    "static/js/2.6c0ca4bb.chunk.js.map": "/EvilCart/static/js/2.6c0ca4bb.chunk.js.map",
+    "static/js/3.97265251.chunk.js": "/EvilCart/static/js/3.97265251.chunk.js",
+    "static/js/3.97265251.chunk.js.map": "/EvilCart/static/js/3.97265251.chunk.js.map",
+    "index.html": "/EvilCart/index.html",
+    "static/css/main.6d3ebbe0.chunk.css.map": "/EvilCart/static/css/main.6d3ebbe0.chunk.css.map",
+    "static/js/2.6c0ca4bb.chunk.js.LICENSE.txt": "/EvilCart/static/js/2.6c0ca4bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8b8c3d9.js",
+    "static/js/2.6c0ca4bb.chunk.js",
+    "static/css/main.6d3ebbe0.chunk.css",
+    "static/js/main.c3898b07.chunk.js"
+  ]
+}
